@@ -1,0 +1,7 @@
+requests == 2.26.0
+google-cloud-error-reporting == 1.4.1
+functions-framework == 3.0.0
+simple-log-factory >= 0.0.1
+pymongo == 4.0
+pytz == 2021.3
+dnspython == 2.1.0
